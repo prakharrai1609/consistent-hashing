@@ -40,8 +40,11 @@
 In summary, consistent hashing is a fundamental technique in distributed systems that allows efficient data distribution and minimal disruption when nodes are added or removed. It provides a robust solution for addressing the challenges of data distribution in a distributed environment.
 
 <hr>
+
 ## The three server problem:
+
 <hr>
+
 **Scenario**: You have a distributed caching system with three cache servers (A, B, and C) that store cached data, and you want to decide which server to use for caching or retrieving data based on the data's key.
 
 **Step 1: Initialization**
